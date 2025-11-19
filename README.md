@@ -5,3 +5,6 @@
 
 # Screenshoot 2
 ![Index](https://github.com/tir890/Lab8Web/blob/82ad28f9a96d585c3e4a5e4c9fea07b28f6124a4/image.png)
+
+# Screenshhot 3
+![Tambah](https://github.com/tir890/Lab8Web/blob/6bc0d916a15712dbf74f342198f774f238fb1b86/image.png)
